@@ -1,2 +1,1 @@
-# probe_make_site
- First steps make site
+# Проекты, которые у меня получились в ходе обучения в Skillbox по верстке.
