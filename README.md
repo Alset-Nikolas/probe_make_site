@@ -3,5 +3,5 @@
 # evclid 
 ![image](gifs/evclid.gif)
 
-# evclid 
+# lagoona 
 ![image](gifs/lagoona.gif)
